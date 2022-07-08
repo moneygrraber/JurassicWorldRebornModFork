@@ -30,6 +30,8 @@ public class AllosaurusDinosaur extends Dinosaur {
         this.setBones("leg_bones", "neck_vertebrae", "arm_bones", "claw", "foot_bones", "leg_bones", "pelvis", "shoulder", "tooth", "ribcage", "skull", "tail_vertebrae");
         this.setHeadCubeName("Head");
         this.setBreeding(false, 2, 4, 40, false, true);
+        this.setImprintable(true)
+        this.setDefendOwner(true)
         this.setScale(1.3F, 0.1F);
         this.shouldDefendOffspring();
         String[][] recipe = {{"", "", "","neck_vertebrae","skull"},

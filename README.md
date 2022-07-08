@@ -174,5 +174,5 @@ __Example for Windows and IDEA:__
 
 Now open the workspace and voilà, you can start contributing!
 
-###THIS IS A FORK!
-###THIS IS A FORK
+THIS IS A FORK!
+
